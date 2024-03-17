@@ -1,7 +1,9 @@
 <p align="center">
-    <em>Whale Stream allows users to stream films directly on their desktop.</em>
+  <img width="100" height="100" alt="NebulaGraph Data Intelligence Suite(ngdi)" src="./src/img/icon.png">
 </p>
-
+<p align="center">
+    <br>English
+</p>
 <p align="center">
   </a>
   <!-- TypeScript Badge -->
