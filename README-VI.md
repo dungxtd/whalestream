@@ -49,3 +49,7 @@
 ```sh
   sudo xattr -cr /Applications/Whale\ Stream.app
 ```
+
+   <img width="560" src="./src/img/troubleshooting.png" />
+   
+# License
