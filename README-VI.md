@@ -38,13 +38,17 @@
 
 ### Cài đặt thủ công
 
-1. Truy cập trang [Latest Release](https://github.com/dungxtd/whalestream/releases) và tải gói cài đặt đuôi `.dmg` tương ứng với <b>chip</b> của bạn. Lưu ý: Sử dụng phiên bản AArch64 cho các máy Apple Silicon và chạy lệnh `xattr` ở dưới.
+1. Truy cập trang [Latest Release](https://github.com/dungxtd/whalestream/releases) và tải gói cài đặt đuôi `.dmg` tương ứng với <b>chip</b> của bạn. Lưu ý: Sử dụng phiên bản <b>AArch64 (ARM64)</b> cho các máy Apple Silicon và chạy lệnh `xattr` ở dưới.
 2. Nhấp đúp vào tệp đã tải để cài đặt.
 3. It's been a long long time coming buttttt.
 
 ### Sửa lỗi
 
-- Nhận thông báo lỗi như tệp bị hỏng với các máy Apple Silicon. Mở `Terminal.app` và nhập lệnh sau (bạn có thể cần nhập mật khẩu giữa chừng), sau đó khởi động lại `Whale Stream`:
+#### Nhận thông báo lỗi <b>Tệp bị hỏng</b> với các máy Apple Silicon.
+
+1. Mở `Terminal.app` và nhập lệnh phía dưới rồi nhận Enter.
+2. Nếu có yêu cầu mật khẩu, nhập mật khẩu đăng nhập máy tính của bạn (khi nhập sẽ chỉ hiện khoảng trắng, không hiện mật khẩu) rồi tiếp tục nhấn Enter.
+3. Khởi động lại `Whale Stream`:
 
 ```sh
   sudo xattr -cr /Applications/Whale\ Stream.app
