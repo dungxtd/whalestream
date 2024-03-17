@@ -77,6 +77,7 @@ What began as a Mac application has now evolved into a multi-platform desktop ap
 ```
 
    <img width="560" src="./src/img/troubleshooting.png" />
+   
 # License
 
 <!-- [LICENSE](./LICENSE) -->
