@@ -2,7 +2,7 @@
   <img width="120" height="120" alt="NebulaGraph Data Intelligence Suite(ngdi)" src="./src/img/icon.png">
 </p>
 <p align="center">
-    <br> English | <a href="README-CN.md">中文</a>
+    <br> English | <a href="README_VI.md">Vietnamese</a>
 </p>
 <p align="center">
   </a>
