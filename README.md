@@ -63,7 +63,8 @@ What began as a Mac application has now evolved into a multi-platform desktop ap
 
 1. Go to the [Latest Release](https://github.com/dungxtd/whalestream/releases) page and download the corresponding chip's `.dmg` installation package. Note: Use aarch64 version for Apple Silicon machines and run `xattr` command below.
 2. Double click the downloaded file to install it.
-3. Ready to use!
+3. If prompted as unsafe, you can click on `More Info` -> `Run Anyway` to proceed with the installation.
+4. Ready to use!
 
 ### Troubleshooting
 
