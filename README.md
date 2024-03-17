@@ -1,6 +1,6 @@
-<pi >
-  <img width="40" height="40" alt="NebulaGraph Data Intelligence Suite(ngdi)" src="./src/img/icon.png">
-</pi>
+<p align="center">
+  <img width="120" height="120" alt="NebulaGraph Data Intelligence Suite(ngdi)" src="./src/img/icon.png">
+</p>
 <p align="center">
     <br> English | <a href="README-CN.md">中文</a>
 </p>
