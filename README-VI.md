@@ -38,7 +38,7 @@
 
 ### Cài đặt thủ công
 
-1. Truy cập trang [Latest Release](https://github.com/dungxtd/whalestream/releases) và tải gói cài đặt đuôi `.dmg` tương ứng với <b>chip</b> của bạn. Lưu ý: Sử dụng phiên bản aarch64 cho các máy Apple Silicon và chạy lệnh `xattr` ở dưới.
+1. Truy cập trang [Latest Release](https://github.com/dungxtd/whalestream/releases) và tải gói cài đặt đuôi `.dmg` tương ứng với <b>chip</b> của bạn. Lưu ý: Sử dụng phiên bản AArch64 cho các máy Apple Silicon và chạy lệnh `xattr` ở dưới.
 2. Nhấp đúp vào tệp đã tải để cài đặt.
 3. It's been a long long time coming buttttt.
 
