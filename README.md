@@ -1,8 +1,8 @@
+<pi >
+  <img width="40" height="40" alt="NebulaGraph Data Intelligence Suite(ngdi)" src="./src/img/icon.png">
+</pi>
 <p align="center">
-  <img width="100" height="100" alt="NebulaGraph Data Intelligence Suite(ngdi)" src="./src/img/icon.png">
-</p>
-<p align="center">
-    <br>English
+    <br> English | <a href="README-CN.md">中文</a>
 </p>
 <p align="center">
   </a>
@@ -57,7 +57,8 @@ What began as a Mac application has now evolved into a multi-platform desktop ap
 
 1. Download the installation package ending in `.exe` from the [Latest Release](https://github.com/dungxtd/whalestream/releases) page.
 2. Double click the downloaded file to install it.
-3. Ready to use!
+3. If prompted as unsafe, you can click on `More Info` -> `Run Anyway` to proceed with the installation.
+4. Ready to use!
 
 ## MacOS
 
@@ -65,19 +66,17 @@ What began as a Mac application has now evolved into a multi-platform desktop ap
 
 1. Go to the [Latest Release](https://github.com/dungxtd/whalestream/releases) page and download the corresponding chip's `.dmg` installation package. Note: Use aarch64 version for Apple Silicon machines and run `xattr` command below.
 2. Double click the downloaded file to install it.
-3. If prompted as unsafe, you can click on `More Info` -> `Run Anyway` to proceed with the installation.
-4. Ready to use!
+3. Ready to use!
 
 ### Troubleshooting
 
-- Whale Stream can’t be opened because the developer cannot be verified.
+- Get error prompts such as broken files with Apple Silicon machines. Open `Terminal.app` and enter the following command (you may need to enter a password halfway through), then restart `Whale Stream`:
 
-  - Get error prompts such as broken files with Apple Silicon machines. Open `Terminal.app` and enter the following command (you may need to enter a password halfway through), then restart `Whale Stream`:
+```sh
+  sudo xattr -cr /Applications/Whale\ Stream.app
+```
 
-    ```sh
-    sudo xattr -d com.apple.quarantine /Applications/Whale\ Stream.app
-    ```
-
+   <img width="560" src="./src/img/troubleshooting.png" />
 # License
 
 <!-- [LICENSE](./LICENSE) -->
