@@ -21,7 +21,7 @@
 
 # Chuẩn bị
 
-- Đảm bảo kết nối mạng ổn định, máy tính và hehe.
+- Đảm bảo kết nối mạng ổn định, máy tính và 1 chỗ để ngồi (nằm).
 
 # Cài đặt
 
@@ -32,7 +32,7 @@
 1. Tải gói cài đặt đuôi `.exe` từ trang [Latest Release](https://github.com/dungxtd/whalestream/releases).
 2. Nhấp đúp vào tệp đã tải để cài đặt.
 3. Nếu được nhắc là không an toàn, nhấp vào `More Info` -> `Run Anyway` để tiếp tục cài đặt.
-4. Readyyyyy!
+4. Khởi động `Whale Stream`.
 
 ## MacOS
 
@@ -40,7 +40,7 @@
 
 1. Truy cập trang [Latest Release](https://github.com/dungxtd/whalestream/releases) và tải gói cài đặt đuôi `.dmg` tương ứng với <b>chip</b> của bạn. Lưu ý: Sử dụng phiên bản <b>AArch64 (ARM64)</b> cho các máy Apple Silicon và chạy lệnh `xattr` ở dưới.
 2. Nhấp đúp vào tệp đã tải để cài đặt.
-3. It's been a long long time coming buttttt.
+3. It's been a long time coming but khởi động `Whale Stream`.
 
 ### Sửa lỗi
 
