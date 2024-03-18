@@ -28,7 +28,7 @@ As a passionate movie buff, I understand the joy and excitement of diving into a
 
 # More than application
 
-What began as a Mac application has now evolved into a multi-platform desktop app that I am currently developing.
+What began as a personal project running on local machines and a command-line interface has now evolved into a multi-platform desktop app that I am currently developing.
 
 <p align="center">
   <img width="560" src="./src/img/home.png" />
